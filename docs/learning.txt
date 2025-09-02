@@ -1,0 +1,74 @@
+Duration: 6 days
+
+
+Course Description:
+
+    This training program provides a basic introduction to Pythonprogramming language. The focus of this training program willbe more on "PYTHONIC" approach towards problem-solving, focused towards Application Development, Web App development and ML/AI readiness 
+
+Target Audience (who should attend):
+
+  * Engineers who wish to learn python program to developapplications or to 
+automate their applications/framework.
+
+  * Engineers who wish to prototype new applications.
+
+Pre-requisites:
+
+  * Participants should be comfortable with the followingtechnologies:
+
+       - Basic programming background with good understanding of programming 
+language ingredients that include variables and datatypes, flow control 
+statements, and function/procedural programming paradigms.
+
+       - Knowledge of any scripting language would be beneficial.
+
+       - Knowledge of OOP and modular programming concepts in any 
+programming language are recommended.
+
+Course Objectives:
+
+  * Understand the basic programming paradigms using Python 2 and Python 3
+
+  * Understand built in data types, variables, functions and flow control 
+statements.
+
+  * Learn how to use string, tuple, list, bytearray, set, dictionary types effectively.
+
+  * Learn "pythonic" idioms and anti-idioms.
+
+  * Learn functions, modules and file I/O operations.
+
+  * Learn the basic concepts of OOP in Python.
+
+  * Process, network, automation
+
+* Web scraping and web formats – json, html, xml
+
+  * REST API development using Flask & consuming them
+
+ * Threads, process, & co-routines 
+
+
+
+Training mode:
+
+   * The Training program will be mostly demonstration oriented.
+
+   * Most concepts will be taught by demonstrating code and participants are 
+expected to learn by practicing the same.
+
+
+Lab requirements:
+
+   * As the training is highly lab oriented, each participantattending the training 
+program must be provided with a computer with the following software 
+installed:
+
+       - Windows/Linux/Mac OSX with Python 3.10+ installed.
+
+       - A good programmer's editor (Notepad++ or PSPad on windows, 
+vim/emacs on Linux) installed.
+
+   * LCD Projector with support to connect to trainer'slaptop 
+
+   * Whiteboard, markers, scribbles pad + pen for participants
