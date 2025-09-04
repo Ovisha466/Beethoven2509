@@ -12,9 +12,9 @@ total = 0
 for employee in employees: 
     total += employee['salary']
 print(total)
-
 '''
-from repo import create_employee, read_all
+
+from repo_pickle import create_employee, read_all
 create_employee(1001, 'Divya Kumar', 'Business Analyst', 38000, '20-Aug-2025')
 create_employee(1002, 'Gowtham', 'Data Analyst', 50000, '22-Aug-2025')
 create_employee(1003, 'Mohammed Mazha', 'Business Analyst', 40000, '12-Aug-2025')
